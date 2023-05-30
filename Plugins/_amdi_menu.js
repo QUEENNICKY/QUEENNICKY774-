@@ -25,7 +25,7 @@ const Lang = Language.getString('amdiMenu');
  * @cmdTypes primary, download, logo, profile, admin
 */
 
-NICKY({ cmd: ["panel", "list", "menu"], desc: "QUEEN NICKY Main Menu", type: "primary", react: "📂" }, (async (amdiWA) => {
+NICKY({ cmd: ["panel", "list", "menu"], desc: "QUEEN NICKY Main Menu", type: "primary", react: "🗞️" }, (async (amdiWA) => {
     let { input, prefix, sendAudioMsg, sendListMsg, msgDevice, sendername } = NICKYWA.msgLayout;
    
     if (input) return;
