@@ -1,0 +1,24 @@
+{
+    "name": "QUEEN NICKY & Dumidu",
+    "description": "Most Popular Multi-Device WhatsApp Bots data profiles",
+    "last_updated": "2023-07-23",
+    "data": {
+        "QUEEN_NICKY": {
+            "owner": "QUEEN NICKY",
+            "number": ["94742443114"],
+            "emoji": "💃🏻",
+            "team": ["94742443114", "94742443114", "94742443114", "94742443114", "94742443114", "94742443114", "94742443114"],
+            "main_groups": [""],
+            "banned_user": "U2FsdGVkX18LzBLG+BlM0fnRcmhlYTCNh5wHY7Mmw/qr6wtM/tr+dyIiYXWn05hwiFTr6xW/UTJpKL/u8TuXgypB7kZokqz21+t/yATVovtlauXLLAiEqTqgI2yF+zi4o07okpz/zFlQm+dL/FZvyqr1iZbJXGuCoFLlbiPP8eIORG/rwFppdugBdeN8YhbcigM0IpmeaskNhNrLWRwI6n0tCs4YQj73IiziOKkEN5M1T/iMULrTSW1tRp+61nmWFHhPdF/cRgGLPWbsCAY+sQ==",
+            "banned_group": ""
+        },
+        "DUMIDU_Multi_Device": {
+            "owner": "DUMIDU",
+            "number": ["94742443114", "94742443114"],
+            "emoji": "👨🏻‍💻",
+            "main_groups": [""],
+            "banned_user": "U2FsdGVkX1+RCP+pdRKmVA8qx4BnV4nU/RlOVS3oh6g2lsFJcOH+xVefDb17Mq5moehfE8dZzUpxkB30yDukA5i6/zoFl87ZkLVe9eVWIVbAojeq359URGMxvJCL2Ro2Y/raE/KEGsv+lo2GPV5cZty5sfQKC6KC270wV2bzIVQM9J2N8IvB6pWprHMVoYRI2oclBOTUJPpY/2CjWV6BjK2qDvanNlKOe2EKrjJLPCI=",
+            "banned_group": ""
+        }
+    }
+}
